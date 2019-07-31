@@ -1,6 +1,6 @@
 {
   "name": "konami-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "super simple library for hiding sneaky easter eggs within your websites using typescript",
   "keywords": [
     "konami",
