@@ -1,0 +1,25 @@
+{
+  "name": "konami-ts",
+  "version": "0.1.0",
+  "description": "super simple library for hiding sneaky easter eggs within your websites using typescript",
+  "keywords": [
+    "konami",
+    "typescript",
+    "konami code"
+  ],
+  "author": "Luke Secomb <dev@lukesecomb.digital>",
+  "license": "MIT",
+  "main": "dist/konami-ts.js",
+  "types": "dist/konami-ts.d.ts",
+  "prepublish": "tsc",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukethacoder/konami-ts"
+  }
+}
