@@ -6,7 +6,7 @@ interface IKonami {
 export default class Konami {
   code: string = '';
   super_secret: string =
-    '12345678901234567890123456789012345678901234567890123456789012345678901234567890';
+    '123456789012345678901234567890123456789012345678901234567890123456789012345678901';
   delay: number = 500;
   callbacks: { (): void }[] = [];
   timeout: number = 100;
